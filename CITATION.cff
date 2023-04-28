@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Flanders"
+  given-names: "William"
+title: "Wavefunction Visualizer"
+version: 1.0.0
+date-released: 2023-04-28
+url: https://github.com/wkflanders/wavefunction-visualizer.git
